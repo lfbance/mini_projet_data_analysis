@@ -1,1 +1,2 @@
 # mini_projet_data_analysis
+Ce projet est réalisé dans le cadre du cours data vizualisation Master 1 en Fouille de Données et Intelligence Artificielle. Il est question de faire un traitement sur des données contenant les noms des lieux ainsi que leurs localisations géographiques. Toutes les opérations ont été réalisées à l'aide de la librairie pandas. Nous avons utilisé google colab et l'ensemble du code est dans le fichier miniProjetDataViz.ipynb.
